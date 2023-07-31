@@ -5,5 +5,4 @@ abstract class Empleado{
 
     abstract public void action();
 }
-
 //cometario
