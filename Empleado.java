@@ -1,6 +1,4 @@
 /* clase padre */
-
-
 abstract class Empleado{
     protected String nombre, ocupacionActual, estado;
     protected int edad, id;
@@ -8,3 +6,4 @@ abstract class Empleado{
     abstract public void action();
 }
 
+//cometario
