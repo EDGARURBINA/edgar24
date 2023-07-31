@@ -3,6 +3,6 @@ abstract class Empleado{
     protected int edad, id;
 
     abstract public void action();
-
+    //añadir cambio
 }
 
